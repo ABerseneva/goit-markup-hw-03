@@ -137,7 +137,7 @@ img{
 
     margin: 0 auto;
     margin-bottom: 40px;
-    max-width: 696px;
+    min-width: 696px;
 }
  .hero-button  { 
     color: var(--color-white);
